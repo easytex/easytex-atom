@@ -1,6 +1,6 @@
 # LaTeXTools for Atom
 
-by Ian Bacher and Marciano Siniscalchi
+Originally by Ian Bacher and Marciano Siniscalchi, currently maintained by Shane Pelletier.
 
 This is an Atom port of the [LaTeXTools package](http://github.com/SublimeText/LaTeXTools) for Sublime Text. It aims to provide a 'one-stop' solution for all your TeXing needs.
 
